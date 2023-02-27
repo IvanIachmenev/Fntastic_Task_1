@@ -1,3 +1,3 @@
 # Тестовое задание №1
 
-Код написан с помощью среды программирования Visual Studio Community 2022
+Код написан в Visual Studio Community 2022
